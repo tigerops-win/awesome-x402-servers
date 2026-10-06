@@ -25,6 +25,7 @@ It allows seamless machine-native transactions:
 ## 📁 Community Servers
 
 * Proxy402 - Monetize any link in seconds. [Website](https://proxy402.com) [Github](https://github.com/Fewsats/proxy402)
+* Scout Packs - B2B data API for AI agents: 4 pay-per-call x402 endpoints on Base ($0.01–$0.03 USDC, no keys) — verified lead lookup, email deliverability scoring, pack-size identity resolution, domain intelligence (RDAP + DNS). Settlement-verified on PayAPI. [Website](https://scout-packs-production.up.railway.app) [Github](https://github.com/tigerops-win/scout-packs)
 
 ---
 
